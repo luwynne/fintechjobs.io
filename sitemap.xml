@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://fintechjobs.io/</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/about</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/fintech</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/companies</loc>
+  <lastmod>2020-05-25T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/company</loc>
+  <lastmod>2020-05-25T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/association</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/associations</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/education</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/events</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/contact</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<!-- <url>
+  <loc>https://fintechjobs.io/search</loc>
+  <lastmod>2019-11-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/job</loc>
+  <lastmod>2019-11-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url> -->
+<url>
+  <loc>https://fintechjobs.io/login</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/register</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://fintechjobs.io/password/reset</loc>
+  <lastmod>2019-07-30T18:50:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobs.fintechjobs.io</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobs.fintechjobs.io/search</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobs.fintechjobs.io/company</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://jobs.fintechjobs.io/job</loc>
+  <lastmod>2020-11-13T09:00:04+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+</urlset>

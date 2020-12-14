@@ -1,0 +1,46 @@
+.jobbioapp{
+    margin: 0 auto;
+}
+
+.jobbioapp h4{
+    display: none;
+}
+
+.jobbioapp .col-xs-12 h4{
+    display: block!important;
+}
+
+.jobbioapp .job-cards a.row {
+    padding-top: 20px!important;
+    padding-bottom: 20px!important;
+}
+
+.jobbioapp .job-cards .row {
+    margin-top: 0!important;
+    margin-bottom: 10px!important;
+}
+
+#feed-search-block{
+    margin-top: 4%;
+}
+
+@media screen and (min-width: 769px) {
+    .jobbioapp{
+        max-width: 80%;
+    }
+    .jobbioapp .col-sm-3 {
+        width: 24%!important;
+        margin-top: 8px!important;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .jobbioapp{
+        max-width: auto;
+    }
+    #feed-search-block input{ 
+        max-width: 100%;
+        margin-bottom: 10px;
+    }
+}
+
